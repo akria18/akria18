@@ -41,40 +41,6 @@ currently_working_on: Improving reliability and resilience at scale
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-
-<div align="center">
-
-### Cloud & Infrastructure
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Observability & Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
-### Chaos Engineering
-![LitmusChaos](https://img.shields.io/badge/LitmusChaos-2563EB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgMTlsMTAgNyAxMC03TDEyIDJ6Ii8+PC9zdmc+&logoColor=white)
-![ChaosBlade](https://img.shields.io/badge/ChaosBlade-FF6B6B?style=for-the-badge&logoColor=white)
-![Gremlin](https://img.shields.io/badge/Gremlin-00C853?style=for-the-badge&logoColor=white)
-
-### CI/CD & Automation
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-</div>
-
----
-
-
 ## 🎤 Speaking & Community
 
 I regularly speak at conferences and meetups about SRE, Chaos Engineering, and Platform Engineering. Check out my [conferences-talks](https://github.com/akria18/conferences-talks) repository for slides and resources.
@@ -115,7 +81,7 @@ I'm passionate about helping others grow in their SRE journey. With a **5.0 ⭐ 
 
 <div align="center">
 
-Whether you want to discuss **Chaos Engineering**, need **mentorship**, or just want to chat about **SRE best practices**, I'm always happy to connect!
+Whether you want to discuss **Kubernetes Resiliene and Reliability**, need **mentorship**, or just want to chat about **SRE best practices**, I'm always happy to connect!
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-riahi-323892123)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akremriahi@gmail.com)
