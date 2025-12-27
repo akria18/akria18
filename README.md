@@ -74,29 +74,6 @@ currently_working_on: Improving reliability and resilience at scale
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akria18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akria18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akria18&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![Litmus Chaos Workflows](https://github-readme-stats.vercel.app/api/pin/?username=akria18&repo=litmus-chaosworkflows&theme=tokyonight&hide_border=true)](https://github.com/akria18/litmus-chaosworkflows)
-[![Conferences Talks](https://github-readme-stats.vercel.app/api/pin/?username=akria18&repo=conferences-talks&theme=tokyonight&hide_border=true)](https://github.com/akria18/conferences-talks)
-
-</div>
-
----
 
 ## 🎤 Speaking & Community
 
@@ -131,17 +108,6 @@ I'm passionate about helping others grow in their SRE journey. With a **5.0 ⭐ 
 - 🏗️ **System Design** for scalability and resilience
 - 🔥 **Chaos Engineering** implementation strategies
 - 📚 **Interview Preparation** for SRE roles
-
----
-
-## 🌐 Community Involvement
-
-<div align="center">
-
-[![LitmusChaos](https://img.shields.io/badge/LitmusChaos-Maintainer-blue?style=for-the-badge)](https://litmuschaos.io/)
-[![CNCF](https://img.shields.io/badge/CNCF-Chaos_Engineering_WG-326CE5?style=for-the-badge)](https://github.com/Chaos-Engineering-WG)
-
-</div>
 
 ---
 
