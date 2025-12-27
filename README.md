@@ -43,7 +43,7 @@ currently_working_on: Improving reliability and resilience at scale
 
 ## 🎤 Speaking & Community
 
-I regularly speak at conferences and meetups about SRE, Chaos Engineering, and Platform Engineering. Check out my [conferences-talks](https://github.com/akria18/conferences-talks) repository for slides and resources.
+I regularly speak at conferences and meetups about SRE, Chaos Engineering, and Platform Engineering.
 
 <div align="center">
 
