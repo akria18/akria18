@@ -25,7 +25,7 @@ I'm a **Site Reliability Engineering Manager** based in **Paris** 🗼, passiona
 
 ```yaml
 name: Akram RIAHI
-role: Senior SRE Manager & Chaos Engineer
+role: SRE Manager & Mentor
 location: Paris, France
 focus:
   - Site Reliability Engineering
