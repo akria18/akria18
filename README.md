@@ -8,7 +8,7 @@
   
 # Hey there! I'm Akram RIAHI 👋
 
-### SRE Manager | Top Mentor @MentorCruise
+### SRE Lead | Top Mentor @MentorCruise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akram-riahi-323892123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.akremriahi@gmail.com)
@@ -21,11 +21,11 @@
 
 ## 🚀 About Me
 
-I'm a **Site Reliability Engineering Manager** based in **Paris** 🗼, passionate about building resilient systems and fostering a culture of reliability. With deep expertise in **Chaos Engineering**, I help organizations embrace failure as a path to stronger systems.
+I'm a **Site Reliability Engineering Lead** based in **Paris** 🗼, passionate about building resilient systems and fostering a culture of reliability. With deep expertise in **Chaos Engineering**, I help organizations embrace failure as a path to stronger systems.
 
 ```yaml
 name: Akram RIAHI
-role: SRE Manager & Mentor
+role: SRE Lead & Mentor
 location: Paris, France
 focus:
   - Site Reliability Engineering
